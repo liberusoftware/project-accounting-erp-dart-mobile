@@ -1,0 +1,9 @@
+{
+  "project": "boilerplate",
+  "presentation": "dart-mobile",
+  "foundation": "project-boilerplate-dart-mobile",
+  "foundationCommit": null,
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "status": "skeleton",
+  "enabledModules": []
+}
